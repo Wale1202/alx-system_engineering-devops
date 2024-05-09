@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Generates the fizzbuzz swquence
+# Generates the fizzbuzz sequence
 
 for (( i=1; i < 101; i++ ))
 do
